@@ -146,11 +146,13 @@ target_link_libraries(turtle_teleop_joy ${catkin_LIBRARIES})
 追加できたら、catkin_wsで`$ catkin_make`する。
 
 ##1.4 Joysticのセッティング
-※コントローラの接続ができていれば、とばして良い
+※コントローラの接続ができていれば、とばして良い。
+
 [ros_joy_tutorial](https://github.com/lancer-evolution/ros_joy_tutorial)よりコントローラとPCとの接続を行う。
 
 ##1.5 接続確認
-※トピックの確認だけなのでとばして良い
+※トピックの確認だけなのでとばして良い。
+
 joyのパッケージを実行してjoysticのデータがトピックとしてパブリッシュされているかを確認するために以下のコマンドを実行する。
 ```bash
 $ rostopic echo joy
