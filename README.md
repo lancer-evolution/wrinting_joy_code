@@ -2,7 +2,7 @@
 
 * joystic(PS3コントローラ)で[turtlesim](http://wiki.ros.org/turtlesim)を動かす。
 * [WritingTeleopNode](http://wiki.ros.org/joy/Tutorials/WritingTeleopNode)の日本語訳及び、indigoバージョン
-![動画](learning_joy/slomobigsurmp4.mp4)
+![](learning_joy/slomobigsurmp4.mp4)
 
 ## 1.1 パッケージ作成
 ```bash
