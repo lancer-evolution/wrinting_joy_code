@@ -1,6 +1,6 @@
-# joysticでturtleを操作
+# joystickでturtleを操作
 
-* joystic(PS3コントローラ)で[turtlesim](http://wiki.ros.org/turtlesim)を動かす。
+* joystick(PS3コントローラ)で[turtlesim](http://wiki.ros.org/turtlesim)を動かす。
 * [WritingTeleopNode](http://wiki.ros.org/joy/Tutorials/WritingTeleopNode)の日本語訳及び、indigoバージョン
 
 <img src ="learning_joy/output.gif" width="240">
